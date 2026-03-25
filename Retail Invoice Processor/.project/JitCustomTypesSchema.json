@@ -1,0 +1,99 @@
+{
+  "exportedBy": null,
+  "bundleHash": null,
+  "version": "1.0.0.0",
+  "jitAssemblyCompilerCommands": [
+    {
+      "providerName": "CustomEntities",
+      "bundleOptions": {
+        "hash": "893172241",
+        "bundleName": "CustomGptDocumentTypeB283Ebbc938D42D6A58A7D90701C8Caf",
+        "entitiesBundle": {
+          "Types": {
+            "CustomGptDocumentTypeB283Ebbc938D42D6A58A7D90701C8Caf": {
+              "name": "CustomGptDocumentTypeB283Ebbc938D42D6A58A7D90701C8Caf",
+              "properties": [
+                {
+                  "name": "InvoiceNumber",
+                  "type": {
+                    "ClrType": "UiPath.IntelligentOCR.StudioWeb.Activities.DataExtraction.ExtractedField`1[[System.String, System.Private.CoreLib]], UiPath.IntelligentOCR.StudioWeb.Activities"
+                  }
+                },
+                {
+                  "name": "InvoiceDate",
+                  "type": {
+                    "ClrType": "UiPath.IntelligentOCR.StudioWeb.Activities.DataExtraction.ExtractedField`1[[System.String, System.Private.CoreLib]], UiPath.IntelligentOCR.StudioWeb.Activities"
+                  }
+                }
+              ],
+              "values": [],
+              "baseType": {
+                "ClrType": "UiPath.IntelligentOCR.StudioWeb.Activities.DataExtraction.ExtendedExtractionResultsForDocumentData, UiPath.IntelligentOCR.StudioWeb.Activities"
+              },
+              "generateChangeNotifications": true
+            }
+          },
+          "Metadata": {},
+          "version": 1
+        }
+      },
+      "entityAssemblyKey": {
+        "name": "UiPath.IntelligentOCR.StudioWeb.Activities.SWEntities.CustomGptDocumentTypeB283Ebbc938D42D6A58A7D90701C8Caf",
+        "hash": "ODkzMTcyMjQx",
+        "assemblyName": "CustomGptDocumentTyp.5LWjnO1xiM1WMCc83rtRM84"
+      }
+    },
+    {
+      "providerName": "CustomEntities",
+      "bundleOptions": {
+        "hash": "1371204916",
+        "bundleName": "CustomGptDocumentTypeC881DaafC27D46A99876356D3B3Ffef7",
+        "entitiesBundle": {
+          "Types": {
+            "CustomGptDocumentTypeC881DaafC27D46A99876356D3B3Ffef7": {
+              "name": "CustomGptDocumentTypeC881DaafC27D46A99876356D3B3Ffef7",
+              "properties": [
+                {
+                  "name": "InvoiceNumber",
+                  "type": {
+                    "ClrType": "UiPath.IntelligentOCR.StudioWeb.Activities.DataExtraction.ExtractedField`1[[System.String, System.Private.CoreLib]], UiPath.IntelligentOCR.StudioWeb.Activities"
+                  }
+                },
+                {
+                  "name": "InvoiceDate",
+                  "type": {
+                    "ClrType": "UiPath.IntelligentOCR.StudioWeb.Activities.DataExtraction.ExtractedField`1[[System.String, System.Private.CoreLib]], UiPath.IntelligentOCR.StudioWeb.Activities"
+                  }
+                },
+                {
+                  "name": "TotalAmount",
+                  "type": {
+                    "ClrType": "UiPath.IntelligentOCR.StudioWeb.Activities.DataExtraction.ExtractedField`1[[System.String, System.Private.CoreLib]], UiPath.IntelligentOCR.StudioWeb.Activities"
+                  }
+                },
+                {
+                  "name": "CustomerName",
+                  "type": {
+                    "ClrType": "UiPath.IntelligentOCR.StudioWeb.Activities.DataExtraction.ExtractedField`1[[System.String, System.Private.CoreLib]], UiPath.IntelligentOCR.StudioWeb.Activities"
+                  }
+                }
+              ],
+              "values": [],
+              "baseType": {
+                "ClrType": "UiPath.IntelligentOCR.StudioWeb.Activities.DataExtraction.ExtendedExtractionResultsForDocumentData, UiPath.IntelligentOCR.StudioWeb.Activities"
+              },
+              "generateChangeNotifications": true
+            }
+          },
+          "Metadata": {},
+          "version": 1
+        }
+      },
+      "entityAssemblyKey": {
+        "name": "UiPath.IntelligentOCR.StudioWeb.Activities.SWEntities.CustomGptDocumentTypeC881DaafC27D46A99876356D3B3Ffef7",
+        "hash": "MTM3MTIwNDkxNg",
+        "assemblyName": "CustomGptDocumentTyp.QeRIW1REesF1wkzWN1EN1uQ3"
+      }
+    }
+  ]
+}

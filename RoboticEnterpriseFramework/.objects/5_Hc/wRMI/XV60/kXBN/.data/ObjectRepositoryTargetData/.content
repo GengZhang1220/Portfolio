@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="YhHbBFbBC0qVWAgS3R5Glw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpachallenge.com" CVScreenId="6f67a860-a87b-466e-8017-c53682f9b80e" CvType="AnyWordGroup" DesignTimeRectangle="748, 559, 1855, 108" ElementType="Text" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl tag='DIV' type='' class='message1 teal-text text-darken-2' matching:class='fuzzy' fuzzylevel:class='0.0' /&gt;" Guid="756cf37c-0420-4425-9aeb-948ec8eea6e3" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Rpa Challenge' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="6f67a860-a87b-466e-8017-c53682f9b80e" CvTextArea="1003, 677, 1344, 36" CvTextArgument="Your success rate is 100% ( 70 out of 70 fields) in 96227 milliseconds" CvType="Text" DesignTimeRectangle="748, 667, 1855, 60" ElementType="Text" FuzzySelectorArgument="&lt;webctrl class='message2' tag='DIV' type='' aaname='Your success rate is 100% ( 70 out of 70 fields) in 96227 milliseconds' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Your success rate is 100% ( 70 out of 70 fields) in 96227 milliseconds' /&gt;" Guid="0cd37f6d-ef76-44a1-8a20-5eae7fd1d3db" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="8fff1b48a51bf3b80d701d3daf9e0ecc.png" xmlns="">0SoOeKGw5C0-M2ft-4jlrkQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

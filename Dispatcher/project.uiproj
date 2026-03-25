@@ -1,0 +1,6 @@
+{
+  "Name": "Dispatcher",
+  "ProjectType": "Process",
+  "Description": "Load the queue data and prepare for the REFramwork",
+  "MainFile": "Main.xaml"
+}

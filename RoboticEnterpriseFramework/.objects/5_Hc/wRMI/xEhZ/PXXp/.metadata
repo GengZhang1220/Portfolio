@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Download Excel cloud_do…",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "PXXp6yhCMU-_9tgwbQp1Ww",
+  "Reference": "zScBMZJUaEWTRX-jsCawrQ/PXXp6yhCMU-_9tgwbQp1Ww",
+  "ParentRef": "zScBMZJUaEWTRX-jsCawrQ/xEhZuSS6ekiCJTOqX4lhkQ",
+  "Created": "2025-12-03T01:03:24.8496574Z",
+  "Updated": "2025-12-03T01:03:24.8496574Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.20.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

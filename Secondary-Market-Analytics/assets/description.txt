@@ -1,0 +1,5 @@
+Positive number: Indicates the seller's asking price is significantly higher than the actual transaction price, indicating a large bubble. If you're not in a hurry, you can wait for the seller to lower the price.
+
+Negative number: Indicates the seller's asking price is even lower than the recent average transaction price, representing a "bargain" opportunity with extremely high liquidity.
+
+Close to 0%: Indicates a very high degree of consensus between buyers and sellers regarding the card's value, indicating an extremely healthy market pricing.

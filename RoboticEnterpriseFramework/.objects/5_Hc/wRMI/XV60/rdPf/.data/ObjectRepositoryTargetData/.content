@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="PvxAm7iR-EG9J2U8IMlFQA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpachallenge.com" CVScreenId="6f67a860-a87b-466e-8017-c53682f9b80e" CvTextArea="1371, 577, 608, 82" CvTextArgument="Congratulations!" CvType="Text" DesignTimeRectangle="748, 559, 1855, 108" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='Congratulations!' tag='DIV' /&gt;" Guid="2db2abcd-d2da-4c46-b885-7c3780efdbbd" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Rpa Challenge' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="6f67a860-a87b-466e-8017-c53682f9b80e" CvTextArea="1003, 677, 1344, 36" CvTextArgument="Your success rate is 100% ( 70 out of 70 fields) in 96227 milliseconds" CvType="Text" DesignTimeRectangle="748, 667, 1855, 60" ElementType="Text" FuzzySelectorArgument="&lt;webctrl class='message2' tag='DIV' type='' aaname='Your success rate is 100% ( 70 out of 70 fields) in 96227 milliseconds' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Your success rate is 100% ( 70 out of 70 fields) in 96227 milliseconds' /&gt;" Guid="438505f1-5493-40f1-a7a9-ed63d492b8d1" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="8fff1b48a51bf3b80d701d3daf9e0ecc.png" xmlns="">0zBQtURNgZUCm6G0fzvGS_Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

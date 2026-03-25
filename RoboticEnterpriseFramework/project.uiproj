@@ -1,0 +1,6 @@
+{
+  "Name": "RoboticEnterpriseFramework",
+  "ProjectType": "Process",
+  "Description": "Enterprise-Grade Dynamic Web Automation Engine",
+  "MainFile": "Main.xaml"
+}

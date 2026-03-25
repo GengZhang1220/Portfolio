@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="kGkuQW53_0uxY2-tMb8pzg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpachallenge.com" CVScreenId="4529fa4c-f999-4928-929d-55cbbfdba702" CvElementArea="32, 1620, 670, 97" CvTextArea="319, 1663, 96, 28" CvTextArgument="START" CvType="Button" DesignTimeRectangle="36, 1498, 667, 108" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='BUTTON' /&gt;" Guid="b914c267-7421-4ead-bc22-39447a80b854" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Rpa Challenge' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="4529fa4c-f999-4928-929d-55cbbfdba702" CvElementArea="31, 1530, 671, 79" CvType="Button" DesignTimeRectangle="36, 1408, 667, 72" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname=' Download Excel cloud_download' tag='A' type='' class=' col s12 m12 l12 btn waves-effect waves-light uiColorPrimary center' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='DOWNLOAD EXCEL&amp;#xA;cloud_download' /&gt;" Guid="52951cff-9326-44b4-bf90-1ff96eb6f56e" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b2935ded134b4c84775743c773058711.png" xmlns="">00SJSAuxIJUKVvtmDwkQ0vQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

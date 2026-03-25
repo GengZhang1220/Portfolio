@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ZCK1L6A-BE6R5ORRnPfVog" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpachallenge.com" CVScreenId="4eee9601-d6d2-42e7-a181-70abbb0dbc9a" CvElementArea="921, 1288, 239, 81" CvTextArea="983, 1313, 114, 28" CvTextArgument="SUBMIT" CvType="Button" DesignTimeRectangle="926, 1167, 231, 72" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='INPUT' type='submit' /&gt;" Guid="3f7350e2-5840-45d8-9006-ed8667bb90d0" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Rpa Challenge' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="13, 359, 713, 1358" FuzzySelectorArgument="&lt;webctrl type='' tag='DIV' class='instructions col s3 m3 l3 uiColorSecondary' aaname='' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Instructions&amp;#xA;EN&amp;#xA;&amp;#xA;&amp;#xA;1. The goal of this challenge is to create a workflow that will input data from a spreadsheet into the form fields on the screen.&amp;#xA;2. Beware! The fields will change position on the screen after every submission throughout 10 rounds thus the workflow must correctly identify where each spreadsheet record must be typed every time.&amp;#xA;3. The actual countdown of the challenge will begin once you click the Start button until then you may submit the form as many times as you wish without receiving penalties.&amp;#xA;Good luck!&amp;#xA;DOWNLOAD EXCEL&amp;#xA;cloud_download&amp;#xA;&amp;#xA;&amp;#xA;&amp;#xA;START' /&gt;" Guid="a555f3ca-b164-4c24-b14c-1046e8b0a7ee" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="5ae0afea927896dd4de5c63ed8433875.png" xmlns="">0gUPqQYqQfUey8lv5q6OfEg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

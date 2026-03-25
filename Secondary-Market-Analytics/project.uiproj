@@ -1,0 +1,6 @@
+{
+  "Name": "Secondary Market Assets Real-time Analytics Tool",
+  "ProjectType": "Process",
+  "Description": "Blank Process",
+  "MainFile": "Main.xaml"
+}
