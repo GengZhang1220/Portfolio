@@ -1,5 +1,3 @@
-# Instruction
-
 # Project Overview:
 Designed and deployed a highly resilient web automation system using the industry-standard Robotic Enterprise Framework (REFramework) to handle dynamic user interfaces and large-scale data entry tasks with zero error rate.
 
