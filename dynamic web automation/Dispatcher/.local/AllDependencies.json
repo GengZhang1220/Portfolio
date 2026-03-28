@@ -20239,9 +20239,9 @@
     "restore": {
       "projectUniqueName": "Dispatcher",
       "projectName": "Dispatcher",
-      "projectPath": "C:\\Users\\Silvi\\OneDrive\\Documents\\Portfolio\\assignment03_Dispatcher\\.local",
+      "projectPath": "C:\\Users\\Silvi\\OneDrive\\Documents\\GitHub\\Portfolio\\dynamic web automation\\Dispatcher\\.local",
       "packagesPath": "C:\\Users\\Silvi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Silvi\\OneDrive\\Documents\\Portfolio\\assignment03_Dispatcher\\.local",
+      "outputPath": "C:\\Users\\Silvi\\OneDrive\\Documents\\GitHub\\Portfolio\\dynamic web automation\\Dispatcher\\.local",
       "UsingMicrosoftNETSdk": false,
       "restoreAuditProperties": {
         "enableAudit": "False"
